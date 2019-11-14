@@ -65,7 +65,7 @@ while True:
         from datetime import datetime
         now = datetime. now()
         dt_string = now. strftime("%d/%m/%Y/ %H:%M:%S")
-        print();print ("date and time = ", dt_string);
+        print();print ("date and time = ", dt_string)
         goto(20)
 
     elif line == 5:
